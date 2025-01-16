@@ -5,6 +5,10 @@
 Kočka se réveille un beau jour dans un endroit non familier sans aucun souvenir. 
 Retrouvera-t-il sa maison, reverra-t-il sa famille ? C'est ce que vous découvrirez au travers de cette épopée dans les rues de Prague. 
 
+**_Procédure de lancement_**
+
+Veuillez ouvrir le fichier htlm, qui vous ouvrira une page Web avec la fiction interactive.
+
 **_Contexte de développement_**
 
 Cette histoire a été écrite ét développée dans le contexte du cours de fiction interactive dispensé par Isaac Panté à l'Université de Lausanne.
