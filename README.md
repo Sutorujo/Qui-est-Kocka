@@ -13,5 +13,6 @@ Veuillez ouvrir le fichier htlm, qui vous ouvrira une page Web avec la fiction i
 
 Cette histoire a été écrite ét développée dans le contexte du cours de fiction interactive dispensé par Isaac Panté à l'Université de Lausanne.
 
-**_Illustration du premier passafe de l'histoire_**
+**_Illustration du premier passage de l'histoire_**
+
 <img width="639" alt="Capture d’écran 2025-01-16 à 16 21 34" src="https://github.com/user-attachments/assets/fe7b5dcd-a0c3-4591-913e-76e965b80723" />
